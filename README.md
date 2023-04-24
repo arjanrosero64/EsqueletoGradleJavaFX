@@ -1,4 +1,4 @@
-# Esqueleto gradle con las dependencias para JavaFX
+# Esqueleto gradle con las dependencias para JavaFXV3
 
 #### Autor: José Ramón Jiménez Reyes
 
